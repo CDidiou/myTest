@@ -1,5 +1,14 @@
-import os
+# Import pandas library
+import pandas as pd
 
-numDep = 2
-dictD = {'numDep': 2, 'pref': 'Laon'}
-print(f'My current day is %numDep')
+# initialize list of lists
+data = [
+  [1, 'Bourg-en-Bresse'],
+  [2, 'Laon']
+      ]
+
+# Create the pandas DataFrame
+df = pd.DataFrame(data, columns=['numDep', 'pref'])
+
+# print dataframe.
+print(df)
