@@ -5,7 +5,8 @@ import pandas as pd
 data = [
   [1, 'Bourg-en-Bresse'],
   [2, 'Laon'],
-  [3, 'Moulins']
+  [3, 'Moulins'],
+  [4, 'Digne-les-Bains']
       ]
 
 # Create the pandas DataFrame
