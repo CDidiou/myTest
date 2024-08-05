@@ -6,7 +6,8 @@ data = [
   [1, 'Bourg-en-Bresse'],
   [2, 'Laon'],
   [3, 'Moulins'],
-  [4, 'Digne-les-Bains']
+  [4, 'Digne-les-Bains'],
+  [5, 'Gap']
       ]
 
 # Create the pandas DataFrame
