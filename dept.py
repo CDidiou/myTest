@@ -7,7 +7,8 @@ data = [
   [2, 'Laon'],
   [3, 'Moulins'],
   [4, 'Digne-les-Bains'],
-  [5, 'Gap']
+  [5, 'Gap'],
+  [6, 'Nice']
       ]
 
 # Create the pandas DataFrame
