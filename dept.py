@@ -8,7 +8,8 @@ data = [
   [3, 'Moulins'],
   [4, 'Digne-les-Bains'],
   [5, 'Gap'],
-  [6, 'Nice']
+  [6, 'Nice'],
+  [7, 'Privas']
       ]
 
 # Create the pandas DataFrame
