@@ -17,7 +17,8 @@ data = [
   [12, 'Rodez'],
   [13, 'Marseille'],
   [14, 'Caen'],
-  [15, 'Aurillac']
+  [15, 'Aurillac'],
+  [16, 'Angoulême']
       ]
 
 # Create the pandas DataFrame
