@@ -34,7 +34,8 @@ data = [
   [28, 'Chartres'],
   [29, 'Quimper'],
   [30, 'Nîmes'],
-  [31, 'Toulouse']
+  [31, 'Toulouse'],
+  [32, 'Auch']
       ]
 
 # Create the pandas DataFrame
