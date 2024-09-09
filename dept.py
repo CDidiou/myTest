@@ -40,7 +40,8 @@ data = [
   [34, 'Montpellier'],
   [35, 'Rennes'],
   [36, 'Châteauroux'],
-  [37, 'Tours']
+  [37, 'Tours'],
+  [38, 'Grenoble']
       ]
 
 # Create the pandas DataFrame
