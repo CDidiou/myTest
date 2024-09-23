@@ -54,7 +54,8 @@ data = [
   [48, 'Mende'],
   [49, 'Angers'],
   [50, 'Saint-Lô'],
-  [51, 'Châlons-en-Champagne']
+  [51, 'Châlons-en-Champagne'],
+  [52, 'Chaumont']
       ]
 
 # Create the pandas DataFrame
