@@ -60,7 +60,8 @@ data = [
   [54, 'Nancy'],
   [55, 'Bar-le-Duc'],
   [56, 'Vannes'],
-  [57, 'Metz']
+  [57, 'Metz'],
+  [58, 'Nevers']
       ]
 
 # Create the pandas DataFrame
